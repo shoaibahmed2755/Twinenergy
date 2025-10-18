@@ -2,11 +2,6 @@
 TwinEnergy helps users track and reduce their carbon footprint with interactive dashboards, AI-powered insights, CO₂ analytics, a sustainability calculator, and green zone maps. 
 Built with React, Chart.js, and Framer Motion to promote eco-friendly, data-driven living.
 
-# Full CMD Script to Create It
-cd "C:\Users\IronCore-2024\Downloads\Twinenergy - 3\Twinenergy - 3"
-type nul > README.md
-code README.md
-
 # 🌍 TwinEnergy — Smart Sustainability Dashboard
 
 ![TwinEnergy Banner](https://github.com/shoaibahmed2755/Twinenergy/blob/main/Dashboard.png)
