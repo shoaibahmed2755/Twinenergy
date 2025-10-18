@@ -9,7 +9,7 @@ code README.md
 
 # 🌍 TwinEnergy — Smart Sustainability Dashboard
 
-![TwinEnergy Banner](https://github.com/<your-username>/twinenergy/assets/banner.png)
+![TwinEnergy Banner](https://github.com/shoaibahmed2755/Twinenergy/blob/main/Dashboard.png)
 
 [![React](https://img.shields.io/badge/React-18.2-blue?logo=react)](https://react.dev/)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4.0-38B2AC?logo=tailwindcss)](https://tailwindcss.com/)
