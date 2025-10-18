@@ -164,10 +164,11 @@ Deploy easily on:
 
 ## 👨‍💻 Contributors
 
-| Name | Role |
-|------|------|
-| Your Name | Developer / Designer |
-| Your Team | UI / AI Integration |
+| Name | Role | Photo | LinkedIn |
+|------|------|--------|-----------|
+| **Shoaib Ahmed** | Developer & Designer | ![Shoaib Ahmed](https://github.com/shoaibahmed2755/Twinenergy/blob/main/Contri/Shoaib.png) | [LinkedIn](https://www.linkedin.com/in/shoaib-ahmed-b05973274/) |
+| **Sriram Ramesh** | UI & AI Integration | ![Sriram Ramesh](https://github.com/shoaibahmed2755/Twinenergy/blob/main/Contri/Sriram.png) | [LinkedIn](https://www.linkedin.com/in/rounak-banerjee0204/) |
+| **Rounak Banerjee** | UI & Presentation | ![Rounak Banerjee](https://github.com/shoaibahmed2755/Twinenergy/blob/main/Contri/Rounak.png) | [LinkedIn](https://www.linkedin.com/in/sriram-ramesh-2a525525a/) |
 
 ---
 
