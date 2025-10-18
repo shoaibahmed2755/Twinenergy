@@ -19,7 +19,7 @@ code README.md
 ---
 
 ## 🌐 Live Demo  
-👉 [Try TwinEnergy Now](https://twinenergy.vercel.app/)
+👉 [Try TwinEnergy Now](https://github.com/shoaibahmed2755/Twinenergy)
 
 ---
 
