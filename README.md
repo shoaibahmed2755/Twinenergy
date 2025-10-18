@@ -57,7 +57,7 @@ It provides **interactive dashboards**, **real-time analytics**, **AI insights**
 
 ## 🖼️ Screenshots
 
-| Dashboard | AI Insights (Coach) | Life Tips |
+| Advanced Dashboard | AI Insights (Coach) | Life Tips |
 |------------|-------------|-----|
 | ![Dashboard](https://github.com/shoaibahmed2755/Twinenergy/blob/main/AdvanceDashboard.png) | ![AI Insights](https://github.com/shoaibahmed2755/Twinenergy/blob/main/AI%20Coach.png) | ![Life Tips](https://github.com/shoaibahmed2755/Twinenergy/blob/main/Life%20Tips.png) |
 
